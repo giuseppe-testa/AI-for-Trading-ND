@@ -128,6 +128,10 @@ celerybeat-schedule
 *.sql
 *.sqlite
 
+# R Studio #
+######################
+*.Rhistory
+
 # PyCharm generated files #
 ###########################
 /.idea
